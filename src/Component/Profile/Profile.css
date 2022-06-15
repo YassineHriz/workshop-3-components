@@ -1,0 +1,15 @@
+.Profile
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(123, 168, 153);
+    width: 500px;
+    padding: 2vh;
+    border-radius: 20px;
+}
+.Text
+{
+    padding-left: 20px;
+    border-left: 2px solid black;
+}
